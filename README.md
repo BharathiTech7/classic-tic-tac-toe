@@ -13,7 +13,7 @@ This project helped me practice **DOM manipulation, game logic implementation, e
 - 🎨 Custom background, hover effects, and button animations.  
 
 ---
-##🔗Live Link: 
+##🔗Live Link: https://bharathitech7.github.io/classic-tic-tac-toe/
 
 ## 🛠️ Tech Stack
 - **HTML5** → Game structure.  
